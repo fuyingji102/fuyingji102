@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Fu Yingji's GitHub stats](https://github-readme-stats.vercel.app/api?Fuyingji=all-smile&show_icons=true&theme=tokyonight)
+![Fu Yingji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fuyingji&show_icons=true&theme=tokyonight)
+![Visitor Count](https://profile-counter.glitch.me/fuyingji102/count.svg)
 <!--
 **fuyingji102/fuyingji102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

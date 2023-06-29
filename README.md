@@ -4,7 +4,7 @@ During my undergraduate studies, I devoted myself to the analysis of pathologica
 
 Recently, my research interests lie in the fascinating field of neuroimaging, with a particular focus on Alzheimer's disease. I'm passionate about leveraging computer vision and deep learning techniques to analyze brain images and contribute to our understanding of this complex neurodegenerative disorder. Exploring the potential of nanorobots for precise drug delivery and using robotics to enhance surgical procedures also appeal to me.
 
-I am driven by a strong desire to make meaningful contributions to the field of neuroimaging and ultimately improve the diagnosis and treatment of neurological disorders. Please learn more about me from my [personal website](https://github.com/fuyingji102/Fuyingji).
+I am driven by a strong desire to make meaningful contributions to the field of neuroimaging and ultimately improve the diagnosis and treatment of neurological disorders. Please learn more about me from my [personal website](https://fuyingji102.github.io/Fuyingji/).
 
 
 <!--

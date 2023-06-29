@@ -1,5 +1,11 @@
-### Hi there 👋
 ![Fu Yingji's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuyingji102&show_icons=true&theme=tokyonight)
+### Hi 👋! Here is **Fu Yingji**, an upcoming Msc student in the [BME](https://www.cityu.edu.hk/bme/), [CityU](https://www.cityu.edu.hk/). 
+During my undergraduate studies, I devoted myself to the analysis of pathological and CT images, exploring the intersection of medical imaging and computer vision. 
+
+Recently, my research interests lie in the fascinating field of neuroimaging, with a particular focus on Alzheimer's disease. I'm passionate about leveraging computer vision and deep learning techniques to analyze brain images and contribute to our understanding of this complex neurodegenerative disorder. Exploring the potential of nanorobots for precise drug delivery and using robotics to enhance surgical procedures also appeal to me.
+
+I am driven by a strong desire to make meaningful contributions to the field of neuroimaging and ultimately improve the diagnosis and treatment of neurological disorders. Please learn more about me from my [personal website](https://github.com/fuyingji102/Fuyingji).
+
 
 <!--
 **fuyingji102/fuyingji102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

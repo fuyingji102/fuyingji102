@@ -1,10 +1,5 @@
 ![Fu Yingji's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuyingji102&show_icons=true&theme=tokyonight)
-### Hi 👋! Here is **Fu Yingji**, an upcoming Msc student in the [BME](https://www.cityu.edu.hk/bme/), [CityU](https://www.cityu.edu.hk/). 
-During my undergraduate studies, I devoted myself to the analysis of pathological and CT images, exploring the intersection of medical imaging and computer vision. 
-
-Recently, my research interests lie in the fascinating field of neuroimaging, with a particular focus on Alzheimer's disease. I'm passionate about leveraging computer vision and deep learning techniques to analyze brain images and contribute to our understanding of this complex neurodegenerative disorder. Exploring the potential of nanorobots for precise drug delivery and using robotics to enhance surgical procedures also appeal to me.
-
-I am driven by a strong desire to make meaningful contributions to the field of neuroimaging and ultimately improve the diagnosis and treatment of neurological disorders. Please learn more about me from my [personal website](https://fuyingji102.github.io/Fuyingji/).
+### Hi 👋! Here is **Fu Yingji**, an upcoming Msc student in the [BME](https://www.cityu.edu.hk/bme/), [CityU](https://www.cityu.edu.hk/), specializing in the intersection of artificial intelligence and medical image analysis. With a background in researching medical pathological images and CT scans during my undergraduate studies, I am eager to expand my knowledge in the field of neuroscience and learn about advanced imaging techniques used in brain science. My primary interest lies in leveraging artificial intelligence to further our understanding of brain imaging and its applications in neuroscience. Please learn more about me from my [personal website](https://fuyingji102.github.io/Fuyingji/).
 
 
 <!--
